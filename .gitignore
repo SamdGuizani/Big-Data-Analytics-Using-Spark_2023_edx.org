@@ -1,0 +1,4 @@
+# Ignore a specific file
+PA5/resource/asnlib/publicdata/covtype/covtype.data
+PA7/resource/asnlib/publicdata/higgs_test_large.csv
+PA7/resource/asnlib/publicdata/higgs_train_large.csv
